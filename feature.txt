@@ -1,0 +1,6 @@
+Welcome to the Video 
+
+This website is built in consideration that it works Seamlessly on all Browser. 
+Its CSS properties are blended to work with cross-browser 
+
+ 
